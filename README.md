@@ -16,7 +16,7 @@
    Work on your project and remember to commit often.
    <br>Remember:
    <br> git status
-   <br> git add [whatever files you want to save]
+   <br> git add [whatever files you want to save] if you want to just add everything in current file then do just git add .
    <br> git commit -m 'I AM A MESSAGE'
     
 # 4) Save your changes on Github
